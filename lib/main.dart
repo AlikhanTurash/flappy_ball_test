@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:firebase_remote_config/firebase_remote_config.dart';
+
 void main() {
   runApp(const MyApp());
 }
